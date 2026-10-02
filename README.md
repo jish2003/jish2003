@@ -5,8 +5,8 @@
 </p>
 <p align="center">
   <a href="mailto:jishanshaikh1004@gmail.com">Email</a> ·
-  <a href="LINKEDIN_URL">LinkedIn</a> ·
-  <a href="GOOGLE_SCHOLAR_URL">Google Scholar</a> ·
+  <a href="https://www.linkedin.com/in/jishan-shaikh-9a5836238/">LinkedIn</a> ·
+  <a href="https://scholar.google.com/citations?user=q1EnZFAAAAAJ&hl=en">Google Scholar</a> ·
   <a href="RESUME_PDF_URL">Resume</a>
 </p>
 
